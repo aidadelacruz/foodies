@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/foodies/static/css/main.38ff09ff.css",
+    "main.js": "/foodies/static/js/main.ebb9cda0.js",
+    "static/js/725.3cb47e46.chunk.js": "/foodies/static/js/725.3cb47e46.chunk.js",
+    "static/js/602.e35140ca.chunk.js": "/foodies/static/js/602.e35140ca.chunk.js",
+    "static/js/433.0efa0abe.chunk.js": "/foodies/static/js/433.0efa0abe.chunk.js",
+    "static/js/453.9c3bf64e.chunk.js": "/foodies/static/js/453.9c3bf64e.chunk.js",
+    "index.html": "/foodies/index.html",
+    "main.38ff09ff.css.map": "/foodies/static/css/main.38ff09ff.css.map",
+    "main.ebb9cda0.js.map": "/foodies/static/js/main.ebb9cda0.js.map",
+    "453.9c3bf64e.chunk.js.map": "/foodies/static/js/453.9c3bf64e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38ff09ff.css",
+    "static/js/main.ebb9cda0.js"
+  ]
+}
